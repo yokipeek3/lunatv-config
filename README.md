@@ -1,5 +1,5 @@
 # MoonTV/LunaTV 配置编辑器
-https://hafrey1.github.io/LunaTV-config  
+https://yokipeek3.github.io/LunaTV-config  
 
 --- 
 
