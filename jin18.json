@@ -6,6 +6,11 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com"
     },
+    "wsyzy.cc": {
+      "name": "🎬-无水印资源站-",
+      "api": "https: //api.wsyzy.net/api.php/provide/vod",
+      "detail": "https://wsyzy.cc"
+    },
     "dbzy.tv": {
       "name": "🎬豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
@@ -66,6 +71,11 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "detail": "https://bfzy.tv"
     },
+    "qp.xgzy.tv": {
+      "name": "🎬西瓜资源",
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod",
+      "detail": "https://qp.xgzy.tv/"
+    },
     "zuida.xyz": {
       "name": "🎬最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -93,8 +103,18 @@
     },
     "jinyingzy.com": {
       "name": "🎬金鹰点播",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.com"
+    },
+    "tyyszyapi.com": {
+      "name": "🎬天涯影视资源",
+      "api": "https://tyyszyapi.com/api.php/provide/vod",
+      "detail": "https://tyyszyapi.com"
+    },
+    "155api.com": {
+      "name": "🎬155资源站",
+      "api": "https://155api.com/api.php/provide/vod",
+      "detail": "https://155api.com"
     },
     "p2100.net": {
       "name": "🎬飘零资源",
@@ -123,22 +143,27 @@
     },
     "www.ryzyw.com": {
       "name": "🎬如意资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
+    },
+    "api.niuniuzy.me": {
+      "name": "🎬牛牛资源",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "detail": "https://api.niuniuzy.me"
     },
     "www.haohuazy.com": {
       "name": "🎬豪华资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://www.haohuazy.com"
     },
     "bdzy1.com": {
       "name": "🎬百度云zy",
-      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
     },
     "lovedan.net": {
       "name": "🎬艾旦影视",
-      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
     }
   }
