@@ -11,28 +11,28 @@ https://yokipeek3.github.io/LunaTV-config
 ##  MoonTV/LunaTV配置
 订阅使用：复制下面链接  
 
-👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
+👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/yokipeek3/LunaTV-config/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
 
 ```bash
-https://pz.v88.qzz.io?format=2&source=jin18
+https://lunatv.weiguang4.eu.org?format=2&source=jin18
 ```
 ```bash
-https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jin18.txt
+https://raw.githubusercontent.com/yokipeek3/LunaTV-config/refs/heads/main/jin18.txt
 ```
-👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jingjian.txt) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
+👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://raw.githubusercontent.com/yokipeek3/LunaTV-config/refs/heads/main/jingjian.txt) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
 ```bash
-https://pz.v88.qzz.io?format=2&source=jingjian
+https://lunatv.weiguang4.eu.org?format=2&source=jingjian
 ```
 ```bash
-https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jingjian.txt
+https://raw.githubusercontent.com/yokipeek3/LunaTV-config/refs/heads/main/jingjian.txt
 ```
 
-👉 Base58编码订阅链接[完整版🎬+🔞源链接](https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/LunaTV-config.txt) （推荐使用自己部署的代理）                          
+👉 Base58编码订阅链接[完整版🎬+🔞源链接](https://raw.githubusercontent.com/yokipeek3/LunaTV-config/refs/heads/main/LunaTV-config.txt) （推荐使用自己部署的代理）                          
 ```bash
-https://pz.v88.qzz.io?format=2&source=full
+https://lunatv.weiguang4.eu.org?format=2&source=full
 ```
 ```bash
-https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/LunaTV-config.txt
+https://raw.githubusercontent.com/yokipeek3/LunaTV-config/refs/heads/main/LunaTV-config.txt
 ```
 
 --- 
@@ -373,10 +373,10 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🎬极速资源 | [Link](https://jszyapi.com) | [Link](https://jszyapi.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬樱花资源 | [Link](https://yhzy.cc) | [Link](https://m3u8.apiyhzy.com/api.php/provide/vod) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬牛牛资源 | [Link](https://api.niuniuzy.me) | [Link](https://api.niuniuzy.me/api.php/provide/vod) | ❌ | 1 | 0 | 100.0% | ------✅ |
-| ✅ | 🎬百度云zy | [Link](https://bdzy1.com) | [Link](https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod) | ✅ | 1 | 0 | 100.0% | ------✅ |
+| ✅ | 🎬百度云zy | [Link](https://bdzy1.com) | [Link](https://lunatv.weiguang4.eu.org/?url=https://api.apibdzy.com/api.php/provide/vod) | ✅ | 1 | 0 | 100.0% | ------✅ |
 | ✅ | 🎬红牛资源 | [Link](https://www.hongniuzy.com) | [Link](https://www.hongniuzy2.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬索尼资源 | [Link](https://suonizy.net) | [Link](https://suoniapi.com/api.php/provide/vod) | ❌ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
-| ✅ | 🎬艾旦影视 | [Link](https://lovedan.net) | [Link](https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod) | ✅ | 1 | 0 | 100.0% | ------✅ |
+| ✅ | 🎬艾旦影视 | [Link](https://lovedan.net) | [Link](https://lunatv.weiguang4.eu.org/?url=https://lovedan.net/api.php/provide/vod) | ✅ | 1 | 0 | 100.0% | ------✅ |
 | ✅ | 🎬茅台资源 | [Link](https://mtzy.me) | [Link](https://caiji.maotaizy.cc/api.php/provide/vod) | 无结果 | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬虎牙资源 | [Link](https://www.huyaapi.com) | [Link](https://www.huyaapi.com/api.php/provide/vod) | ✅ | 30 | 0 | 100.0% | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬西瓜资源 | [Link](https://qp.xgzy.tv/) | [Link](https://caiji.xgzyapi.com/api.php/provide/vod) | ❌ | 1 | 0 | 100.0% | ------✅ |
@@ -539,7 +539,7 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 
 
 ## ⭐ Star History
-[![Star History](https://starchart.cc/hafrey1/LunaTV-config.svg?variant=light)](https://starchart.cc/hafrey1/LunaTV-config)
+[![Star History](https://starchart.cc/yokipeek3/LunaTV-config.svg?variant=light)](https://starchart.cc/yokipeek3/LunaTV-config)
 
 
 
